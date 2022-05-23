@@ -1,4 +1,4 @@
-# CodePipeline-Slack Integration
+# AWS Codepipeline/Slack Integration
 
 Here we have sample terraform code to configure a simple AWS CodePipeline integration with a slack channel of your choosing to communicate status changes in code pipelines. 
 
