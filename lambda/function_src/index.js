@@ -16,7 +16,7 @@ let apiRequest = (state, pipeline, gif = '') => {
   const options = {
     hostname: 'hooks.slack.com',
     port: 443,
-    path: 'https://hooks.slack.com/services/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',
+    path: 'slack_webhook_goes_here',
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
